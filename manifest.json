@@ -1,0 +1,8 @@
+{
+  "name": "Phrextension",
+  "description": "Phred's Extension",
+  "version": "1.0",
+  "incognito": "spanning",
+  "chrome_url_overrides": { "newtab": "newtab.html" },
+  "manifest_version": 2
+}
